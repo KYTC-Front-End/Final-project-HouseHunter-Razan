@@ -1,0 +1,7 @@
+
+.image-class{
+    background-image: url('../../utils/images/hero.png');
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+}

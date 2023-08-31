@@ -1,0 +1,52 @@
+.scontainer {
+  display: flex;
+  justify-content: center;
+}
+.section {
+  flex: 1;
+}
+
+.right-section {
+  height: 30px;
+  margin-left: 20px;
+}
+.left-section {
+  height: 30px;
+  text-align: center;
+}
+.main-image {
+  background-image: url('../../utils/images/pexels-sami-aksu-10529663.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1024px;
+}
+
+.secondary-images {
+  display: flex;
+  justify-content: space-between;
+}
+
+.secondary-section {
+  flex: 1;
+  max-width: 33.33%;
+  height: 300px;
+  margin-left: 20px;
+  /* margin-left:20px; */
+}
+.image1 {
+  background-image: url('../../utils/images/pexels-sami-aksu-10529663.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.image2 {
+  background-image: url('../../utils/images/pexels-sami-aksu-10529663.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.image3 {
+  background-image: url('../../utils/images/pexels-sami-aksu-10529663.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

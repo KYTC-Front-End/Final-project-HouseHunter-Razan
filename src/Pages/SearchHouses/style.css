@@ -1,0 +1,13 @@
+.serach-inputs{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.search-results{
+    margin-top:10vh;
+    display: flex;
+    justify-content:center;
+}

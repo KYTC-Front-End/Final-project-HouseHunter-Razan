@@ -1,0 +1,12 @@
+.about-image {
+  background-image: url('../../utils/images/pexels-frans-van-heerden-1438834.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1000px;
+  margin-bottom: 20px;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
